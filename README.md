@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Ansar1820/Ansar1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Principal: **ADSO**
+📍 Ubicación: **Pereira - Colombia**
+💼 Puesto/trabajo actual: **Dispuesto a encontrar nuevos retos**
+🌱 Aprendizaje actual: **Desarrollo de software, desarrollo frontend y herramientas de automatización**
 
-Here are some ideas to get you started:
+### Vías de contacto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![website](https://img.shields.io/website?url=https%3A%2F%2Fwww.instagram.com%2Fangela_sarria99%3Fgwpx%3DMWgxenMzdWkzZTJsdg%3D%3D
+)
+
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ansar1820/Ansar1820)
+
+
